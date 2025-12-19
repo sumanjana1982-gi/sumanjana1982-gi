@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sumanjana1982-gi/sumanjana1982-gi/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
