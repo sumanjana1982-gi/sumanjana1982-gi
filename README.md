@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Suman 👋
+<h2 align="left">Hi, I'm Suman 👋 <br>
 Aspiring Developer | full-stack devloper Enthusiast | Tech Learner |ReadyToContribute
 
 I'm a passionate learner who loves building clean, user-friendly interfaces and exploring how technology shapes real-world solutions.
