@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Suman 👋 <br>
-Aspiring Developer | full-stack devloper Enthusiast | Tech Learner |ReadyToContribute
+Aspiring Developer | full-stack devloper Enthusiast | Tech Learner |Interested in DBMS|Enthusiast in (ML & AI) |ReadyToContribute|
 
 I'm a passionate learner who loves building clean, user-friendly interfaces and exploring how technology shapes real-world solutions.
 Currently, I’m sharpening my skills in HTML5, CSS3, C programming, and gradually moving into JavaScript to build fully functional web projects.
