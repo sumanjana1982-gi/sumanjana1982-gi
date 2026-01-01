@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is suman... and I'm a ..., from ....</h2>
+<h2 align="left">Hi, I'm Suman 👋
+Aspiring Developer | full-stack devloper Enthusiast | Tech Learner |ReadyToContribute
+
+I'm a passionate learner who loves building clean, user-friendly interfaces and exploring how technology shapes real-world solutions.
+Currently, I’m sharpening my skills in HTML5, CSS3, C programming, and gradually moving into JavaScript to build fully functional web projects.
+
+</h2>
 
 ###
 
